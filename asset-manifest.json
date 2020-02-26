@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yestamayocheapdomain.me/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/yestamayocheapdomain.me/static/js/main.73ff0be5.chunk.js",
+    "main.js.map": "/yestamayocheapdomain.me/static/js/main.73ff0be5.chunk.js.map",
+    "runtime-main.js": "/yestamayocheapdomain.me/static/js/runtime-main.100499c9.js",
+    "runtime-main.js.map": "/yestamayocheapdomain.me/static/js/runtime-main.100499c9.js.map",
+    "static/js/2.5ef9810e.chunk.js": "/yestamayocheapdomain.me/static/js/2.5ef9810e.chunk.js",
+    "static/js/2.5ef9810e.chunk.js.map": "/yestamayocheapdomain.me/static/js/2.5ef9810e.chunk.js.map",
+    "index.html": "/yestamayocheapdomain.me/index.html",
+    "precache-manifest.b49a3cfeee9a25f6f4fd292dce14737d.js": "/yestamayocheapdomain.me/precache-manifest.b49a3cfeee9a25f6f4fd292dce14737d.js",
+    "service-worker.js": "/yestamayocheapdomain.me/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/yestamayocheapdomain.me/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.5ef9810e.chunk.js.LICENSE.txt": "/yestamayocheapdomain.me/static/js/2.5ef9810e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.100499c9.js",
+    "static/js/2.5ef9810e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.73ff0be5.chunk.js"
+  ]
+}
