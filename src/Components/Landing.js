@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+import { faGem, faSmileWink } from "@fortawesome/free-solid-svg-icons";
 
 class Landing extends Component {
   constructor(props) {
@@ -21,10 +21,10 @@ class Landing extends Component {
           <p className="lead mb-5">{this.landingData.bio}</p>
           <div className="social-icons">
             <a href={this.landingData.linkedin}>
-              <FontAwesomeIcon icon={faLinkedin} />
+              <FontAwesomeIcon icon={faSmileWink} />
             </a>
             <a href={this.landingData.github}>
-              <FontAwesomeIcon icon={faGithub} />
+              <FontAwesomeIcon icon={faGem} />
             </a>
           </div>
         </div>
